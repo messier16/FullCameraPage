@@ -34,5 +34,7 @@
 	<string>FullCameraApp</string>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>NSCameraUsageDescription</key>
+	<string>I need access to your camera to take some photos!</string>
 </dict>
 </plist>
