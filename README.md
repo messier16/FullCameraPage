@@ -13,7 +13,7 @@ On **Android** add the following lines to your Manifest
 <uses-feature android:name="android.hardware.camera.autofocus" />
 ```
 
-On **iOS** add the follwing lines to yout Info.plist (make sure you explain to your users why you need the camera)
+On **iOS** add the follwing lines to your Info.plist (make sure you explain to your users why you need the camera)
 
 ```xml
 <key>NSCameraUsageDescription</key>
